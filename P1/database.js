@@ -1,0 +1,1 @@
+const url = "mongodb+srv://atydev:Z66xjNxvgsFs6SPH@aty.oub1jrn.mongodb.net/?appName=ATYZ"
